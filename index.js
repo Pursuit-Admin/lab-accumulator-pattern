@@ -4,7 +4,7 @@
  * @returns {boolean} Returns `true` if all values in the array are numbers. Otherwise, return `false`.
  */
 function isValid(rolls) {
-  return true;
+  return false;
 }
 
 /**
